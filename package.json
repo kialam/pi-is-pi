@@ -1,5 +1,15 @@
 {
-"name": "@kialam/pi-is-pi",
-"version": "1.0.0"
+    "name": "@kialam/pi-is-pi",
+    "version": "1.0.0",
+    "description": "Use π in place of Math.PI",
+    "license": "MIT",
+    "repository": "kialam/pi-is-pi",
+    "main": "index.js",
+    "keywords": [
+        "pi",
+        "π",
+        "Math.PI",
+        "kialam"
+    ]
 }
 
