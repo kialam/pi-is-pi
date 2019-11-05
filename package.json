@@ -1,6 +1,6 @@
 {
     "name": "@kialam/pi-is-pi",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Use π in place of Math.PI",
     "license": "MIT",
     "repository": "kialam/pi-is-pi",
@@ -12,4 +12,3 @@
         "kialam"
     ]
 }
-
