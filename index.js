@@ -1,3 +1,3 @@
 const π = Math.PI;
 
-export default π;
+module.exports = π;

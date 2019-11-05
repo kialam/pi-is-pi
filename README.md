@@ -14,9 +14,9 @@ $ npm install @kialam/pi-is-pi
 ## Usage
 
 ```js
-import π from 'pi-is-pi';
+const π = require('@kialam/pi-is-pi');
 
-const circumference = (d) => return d * π;
+const circumference = d => d * π;
 circumference(3)
 //=> 3 * Math.PI
 // 9.42477796076938
