@@ -1,4 +1,4 @@
-# pi-is-pi
+# pi-is-pi 🥧
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/kialam/pi-is-pi)
 [![GitHub license](https://img.shields.io/github/license/kialam/pi-is-pi)](https://github.com/kialam/pi-is-pi/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/kialam/pi-is-pi)](https://github.com/kialam/pi-is-pi/stargazers)
